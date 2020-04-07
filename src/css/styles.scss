@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web&display=swap');
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "./container";
+@import "./variables";
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Istok Web', sans-serif;
+    font-weight: 600;
+}
+body {
+    background: rgb(226, 226, 226);
+}
